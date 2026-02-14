@@ -82,7 +82,3 @@ npm run tauri build
 - [Vue 3 文档](https://vuejs.org/)
 - [Vite 文档](https://vitejs.dev/)
 
-## 开发人员
-
-- 主人（主要开发者）喵~
-- 朋友（协助开发者）喵~
